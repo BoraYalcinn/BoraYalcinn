@@ -1,5 +1,6 @@
 <p align="center">
-<img width="700" height="1024" alt="image" src="https://github.com/user-attachments/assets/a619a108-5b1f-4e7b-aead-0d0b86f6bccb" />
+<img width="1330" height="596" alt="BoraYalçınLogo1" src="https://github.com/user-attachments/assets/a18cd1d8-42ae-497f-b326-3180367616d5" />
+
 
 
 <p align="center">
