@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Bora%20Yalçın-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://neetcode.io/profile">
-    <img src="https://img.shields.io/badge/NeetCode-Problem%20Solving-111111?style=for-the-badge"/>
-  </a>
   
   <a href="https://www.shadertoy.com/user/BoraYalcinn">
     <img src="https://img.shields.io/badge/ShaderToy-GLSL-FF6F00?style=for-the-badge"/>
