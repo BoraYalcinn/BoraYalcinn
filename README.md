@@ -20,5 +20,23 @@
 
 ---
 
-I’m a sophomore Computer Engineering student at Yeditepe University, pursuing a minor in Business.
+I’m a 3rd year Computer Engineering student at Yeditepe University, pursuing a minor in Business.
 Interested in computer graphics, game development, rendering, engine-level systems, and the mathematics behind them.
+
+<td align="center">
+<table border="100%" width="100%">
+  <tr>
+    <td width="220" align="center" valign="middle">
+      <img width="360" height="504" alt="image" src="https://github.com/user-attachments/assets/2ec0c007-765a-4089-b98d-45159c1fcb68" />
+    </td>
+    <td align="center" valign="middle">
+      <h3><em>"Before the light, there was structure."</em></h3>
+      <p align="right" valign="right">
+        <p style="color: #888; font-size: 0.9em; margin: 0;">
+          — <strong>Inland Empire</strong>, <em>Disco Elysium</em>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
