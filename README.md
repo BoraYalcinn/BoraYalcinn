@@ -11,8 +11,9 @@
   <a href="https://www.linkedin.com/in/borayalcinn/">
     <img src="https://img.shields.io/badge/LinkedIn-Bora%20Yalçın-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-  
+  <a href="https://www.youtube.com/@BoraY5734">
+    <img src="https://img.shields.io/badge/YouTube-Bora%20Yalçın-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
   <a href="https://www.shadertoy.com/user/BoraYalcinn">
     <img src="https://img.shields.io/badge/ShaderToy-GLSL-FF6F00?style=for-the-badge"/>
   </a>
