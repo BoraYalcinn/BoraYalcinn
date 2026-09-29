@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1330" height="596" alt="BoraYalçınLogo1" src="https://github.com/user-attachments/assets/a18cd1d8-42ae-497f-b326-3180367616d5" />
+<img width="1400" height="544" alt="banner" src="https://github.com/user-attachments/assets/fbfbd45b-7bab-408b-8378-2700cbd4996d" />
 
 
 
